@@ -1,0 +1,1 @@
+Landing page project from The Odin Project program. The goal was to more or less replicate the example page given in the assignment
