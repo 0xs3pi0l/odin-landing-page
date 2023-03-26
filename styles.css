@@ -16,7 +16,7 @@ header > nav {
 }
 
 #links{
-    margin: 15px;
+    margin: 18px;
     display: flex;
     justify-content: space-between;
     gap: 8px;
