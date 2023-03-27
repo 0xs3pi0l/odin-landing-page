@@ -79,3 +79,42 @@ section p {
     border-radius: 7px;
 
 }
+
+.articles{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+    gap: 140px;
+}
+
+.articles img{
+    height: auto;
+    width: 150px;
+    border: solid 4px;
+    border-color: #3882f6;
+    border-radius: 7px;
+}
+
+.articles p{
+    color: #a3a4a6;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    color: #1f2937
+}
+
+#art1 {
+    margin-left: 480px;
+}
+
+#art4 {
+    margin-right: 480px;
+}
+
+
